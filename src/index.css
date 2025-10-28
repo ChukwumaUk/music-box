@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+@import "tailwindcss";
+
+body {
+  background-color: #E1E2DD;
+  min-height: 100vh;
+}
+
+@media (min-width: 1024px) and (max-width: 1400px) {
+  .full-album {
+    font-size: 12px;
+    padding: 5px 10px;
+  }
+  .more {
+    font-size: 12px;
+    padding: 5px 10px;
+  }
+
+  .boxTitle {
+    font-size: 14px;
+  }
+  .box-desc {
+    font-size: 14px;
+  }
+  .track-date, .track-time {
+    font-size: x-small;
+  }
+
+  .follow {
+    margin-top: 5rem;
+    margin-bottom: 0;
+  }
+  .billboard {
+    margin-top: 6rem;
+  }
+}
+
+@media (max-width: 640px) {
+  a.active {
+    background-color: #F43A15;
+    color: whitesmoke;
+  }
+}
+
+@media (max-width: 350px) {
+  .full-album {
+    padding: 5px 10px;
+  }
+
+  .more {
+    padding: 5px 10px;
+  }
+
+  .arrowButton {
+    padding: 5px;
+  }
+
+  
+}
