@@ -5,7 +5,7 @@ import Burna from "../assets/Burna-Boy.jpg";
 import BurnaCover from "../assets/Burna-Boy-Last-Last.jpg";
 import Rema from "../assets/Rema.jpg";
 import RemaCover from "../assets/Rema-Calm-Down-Artwork.jpg";
-import Shallipopi from "../assets/shallipopi.jpg";
+import Shallipopi from "../assets/Shallipopi.jpg";
 import ShallipopiCover from "../assets/Shallipopi-Laho.jpg";
 import Stromae from "../assets/stromae_cover.jpg";
 import StromaeCover from "../assets/stromae_album.jpg";
